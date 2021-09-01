@@ -1,0 +1,9 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+I used this image: https://hdrihaven.com/hdri/?c=nature&h=kiara_1_dawn
+
+I then converted it here: https://360toolkit.co/convert-spherical-equirectangular-to-cubemap from equirectangular to cubemap with 6 square images
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+
+I downloaded a texture of bricks from here: https://www.textures.com/download/3DScans0113/132028. I picked the mask TIFF file, and added it as a bump map to my sphere to make an effect like bricks around the cube. I also added a checkbox to turn it on or off.
